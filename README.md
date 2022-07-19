@@ -1,9 +1,5 @@
 # DataEngi
 
-_Acá va un párrafo que describa lo que es el proyecto_
-
-## Comenzando 🚀
-
 Entendimiento del moviento del dínero 💰 asociado a las ventas. 
 
 ## Construido con 🛠️
@@ -17,11 +13,6 @@ Entendimiento del moviento del dínero 💰 asociado a las ventas.
 * **Jesús Inciarte** - [Inciarte](https://github.com/Inciarte)
 * **Gustavo Chang** - [Guschang](https://github.com/guschang2013)
 
-
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
